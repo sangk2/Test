@@ -1,8 +1,8 @@
 git project có sẵn lên github
 ------
 - git init
-- git branch -m code
 - git add .
-- git commit -m "first commit"
+- git commit -m "comment"
+- git branch -m main
 - git remote add origin link
-- git push origin
+- git push -u origin main
